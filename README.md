@@ -5,11 +5,15 @@
 
 
 - 👋 Hi there, I’m @nevcancollinssen
-- 👀 I’m interested in new experiences
-- 💪 My career goals are increasing professional knowledge and training 
+- 👀 I’m interested in having new experiences
+- 💪 My career goals are expanding professional knowledge and training 
 - 💞️ I’m looking forward to teamwork and collaboration
-- 🧩 Fun facts: *full-time mom *animal lover *easy to work with 
+- 🧩 Fun facts: *easy to work with *detail oriented
                 *punctual, hardworking, and responsible person
+                
+                
+  Connect with me:
+  www.linkedin.com/in/nevcancollinssen
 
 <!---
 nevcancollinssen/nevcancollinssen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
