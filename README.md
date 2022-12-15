@@ -1,4 +1,8 @@
-                        System.out.println("Hello World"); 👋
+  System.out.println("Hello World"); 👋
+                        
+  <div id="header" align="left"><img src="https://media.giphy.com/media/YPJ5gi3MZzSjhtQTIk/giphy.gif" width="100"/>
+</div>
+                        
 ![surfing the net22](https://user-images.githubusercontent.com/111001793/185795778-587f2c8b-5e77-4559-b8c9-5d964da70942.jpg)
 
 
@@ -11,9 +15,12 @@
 - 🧩 Fun facts: *easy to work with *detail oriented
                 *punctual, hardworking, and responsible person
                 
-                
+  
+  ![Nevcan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nevcancollinssen&theme=dark&show_icons=true)
+  
   Connect with me:
   www.linkedin.com/in/nevcancollinssen
+  
 
 <!---
 nevcancollinssen/nevcancollinssen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
